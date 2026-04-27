@@ -22,6 +22,6 @@ public class LabProgram {
         double averageD = (double) (num1 + num2 + num3 + num4) / 4;
 
         System.out.println(product + " " + average);
-        System.out.printf("%.3f %.3f\n", productD, averageD);
+        System.out.printf("%.3f %.3f\n", productD, averageD); //
     }
 }
