@@ -1,4 +1,7 @@
+package labs;
+
 import java.util.Scanner;
+
 
 public class LabProgram3_24 {
     public static void main(String[] args) {
@@ -46,3 +49,4 @@ public class LabProgram3_24 {
         }
     }
 }
+//
