@@ -9,7 +9,7 @@ public class LabProgram2 {
         int quarters = scnr.nextInt();
         int dimes = scnr.nextInt();
         int nickels = scnr.nextInt();
-        int pennies = scnr.nextInt();
+        int pennies = scnr.nextInt(); //
 
         double total = quarters * 0.25 + dimes * 0.10 + nickels * 0.05 + pennies * 0.01;
 
