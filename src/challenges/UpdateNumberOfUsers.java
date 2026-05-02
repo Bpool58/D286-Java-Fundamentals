@@ -14,6 +14,6 @@ public class UpdateNumberOfUsers {
         /* Your solution goes here  */
         numUsers = updateDirection == 1 ? numUsers + 1: numUsers - 1;
 
-        System.out.println("New value is: " + numUsers);
+        System.out.println("New value is:  " + numUsers);
     }
 }
