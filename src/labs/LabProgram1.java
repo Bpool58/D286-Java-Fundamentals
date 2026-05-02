@@ -14,3 +14,4 @@ public class LabProgram1 {
         System.out.println("Hello " + firstName + ", and welcome to CS Online!");
     }
 }
+//
