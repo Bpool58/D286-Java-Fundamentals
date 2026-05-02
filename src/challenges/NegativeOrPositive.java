@@ -10,7 +10,7 @@ public class NegativeOrPositive {
 
         userVal = scnr.nextInt();
 
-        condStr = userVal < 0 ? "negative" : "non-negative";
+        condStr = userVal < 0 ? "negative" : "non-negative.";
 
         System.out.println(userVal + " is " + condStr + ".");
     }
