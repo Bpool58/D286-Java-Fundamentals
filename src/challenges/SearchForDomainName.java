@@ -47,7 +47,7 @@ public class SearchForDomainName {
             isCoreGtld = false;
         }
 
-        System.out.print("The name \"" + inputName + "\" ");
+        System.out.print("The name is \"" + inputName + "\" ");
         if (isCoreGtld) {
             System.out.println("is a core gTLD.");
         }
