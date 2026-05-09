@@ -8,7 +8,7 @@ public class DomainNamePrinter {
         char letter1;
         char letter2;
 
-        System.out.println("Two-letter domain names:");
+        System.out.println("Two-Letter domain names:");
 
         letter1 = 'a';
         while (letter1 <= 'z') {
