@@ -26,7 +26,7 @@ public class SimonSays {
             }
         }
 
-        System.out.println("userScore: " + userScore);
+        System.out.println("UserScore: " + userScore);
 
         return;
     }
