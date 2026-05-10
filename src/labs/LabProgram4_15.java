@@ -18,7 +18,7 @@ public class LabProgram4_15 {
         sum = 0;
         count = 0;
 
-        while (num >= 0) {
+        while (num >= 0) {                  //
 
             if (num > max) {
                 max = num;
