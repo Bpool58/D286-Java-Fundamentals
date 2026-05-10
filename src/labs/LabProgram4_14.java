@@ -13,6 +13,6 @@ public class LabProgram4_14 {
             x = x / 2;
         }
 
-        System.out.println();       //
+        System.out.println();       ///
     }
 }
