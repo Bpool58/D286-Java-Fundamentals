@@ -22,6 +22,6 @@ public class LabProgram4_17 {
                 result = result + currChar;
             }
         }
-        System.out.println(result);
+        System.out.println(result); //
     }
 }
