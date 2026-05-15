@@ -12,7 +12,7 @@ public class arrayOutput {
         userVals[2] = 8;
         userVals[3] = 4;
 
-        maxVal = userVals[0]; //
+        maxVal = userVals[0]; //set max
         for (i = 0; i < userVals.length; ++i) {
             if (userVals[i] >= maxVal) {
                 maxVal = userVals[i];
