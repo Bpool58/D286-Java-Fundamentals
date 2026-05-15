@@ -17,7 +17,7 @@ public class NestedLoop {
                 System.out.print(" ");
             }
 
-            // print number
+            // print number.
             System.out.println(i);
         }
 
