@@ -25,7 +25,7 @@ public class FindMatchValue {
         // Loop through array and count matches
         for (i = 0; i < userValues.length; ++i) {
 
-            // Check if current element equals matchValue
+            // Check if current element equals matchValue.
             if (userValues[i] == matchValue) {
                 numMatches++;
             }
