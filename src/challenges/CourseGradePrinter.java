@@ -13,7 +13,7 @@ public class CourseGradePrinter {
             courseGrades[i] = scnr.nextInt();
         }
 
-        /* Your solution goes here  */
+        /* Your solution goes here . */
         for (i = 0; i < courseGrades.length; i++) {
             System.out.print(courseGrades[i] + " ");
         }
