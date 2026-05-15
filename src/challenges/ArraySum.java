@@ -7,7 +7,7 @@ public class ArraySum {
         Scanner scnr = new Scanner(System.in);
         final int NUM_ELEMENTS = 8;             // Number of elements
         int[] userVals = new int[NUM_ELEMENTS]; // User numbers
-        int i;                                  // Loop index
+        int i;                                  // Loop index.
         int sumVal;                             // For computing sum
 
         // Prompt user to populate array
