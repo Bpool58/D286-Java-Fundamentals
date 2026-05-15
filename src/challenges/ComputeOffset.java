@@ -21,7 +21,7 @@ public class ComputeOffset {
         offsetAmount[2] = input.nextInt();
         offsetAmount[3] = input.nextInt();
 
-        /* Your code goes here */ //
+        /* Your code goes here */ ///
         for (i = 0; i < origList.length; ++i) {
             System.out.print(origList[i] - offsetAmount[i] + ", ");
         }
