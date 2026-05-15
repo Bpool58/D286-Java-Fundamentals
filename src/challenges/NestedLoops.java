@@ -13,7 +13,7 @@ public class NestedLoops {
         numRows = scnr.nextInt();
         numColumns = scnr.nextInt();
 
-        /* Your solution goes here  */
+        /* Your solution goes here . */
 
         System.out.println("");
     }
